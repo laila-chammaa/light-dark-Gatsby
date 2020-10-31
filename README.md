@@ -7,4 +7,6 @@
   Gatsby's hello-world starter
 </h1>
 
-Created and used a global state provider, React hooks, and a CSS in JS library called Emotion JS to quickly add dark mode to a React application made with Gatbsy.
+created and used a global state provider, React hooks, and a CSS in JS library called Emotion JS to quickly add dark mode to a React application made with Gatbsy.
+
+used local-storage-fallback to save the theme that was last used before refresh
